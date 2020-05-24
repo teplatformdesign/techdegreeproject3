@@ -181,7 +181,7 @@ legend {
 
 @media screen and (min-width: 768px){
   #main-section {
-    width: 65%;
+    width: 70%;
     margin: auto;
 }
 
@@ -211,11 +211,44 @@ div p {
     margin-left: 4%;
 }
 
+#contactsection label {
+    text-align: right;
+    clear: both;
+    float: left;
+    margin-right: 15px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+#contactsection input {
+        text-align: left;
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 15px;
+    width: 69%;
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+
+#contactsection select {
+    display: flex;
+    flex-direction: column;
+    width: 73%;
+    float: right;
+}
+
+input#Zip_Code {
+    float: right;
+    width: 29%;
+    margin-right: 41%;
+}
 }
 
 @media screen and (min-width: 1024px){
   #main-section {
-    width: 35%;
+    width: 60%;
     margin: auto;
 }
 }
