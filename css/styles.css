@@ -110,7 +110,10 @@ textarea:focus,
 select:focus {
   border: solid 3px blue;
   background-color: lightblue;
+  transform: scale(1.025);
+  transition-duration: .5s;
 }
+
 
 input[type="radio"],
 input[type="checkbox"],
