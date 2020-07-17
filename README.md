@@ -1,5 +1,5 @@
-# techdegreeproject3
-Tree House Tech Degree Project #3
+# What I built
+Tree House Tech Degree Project #3 - Online Registration Form
 
-# techdegreeproject3
+# What I learned
 Learned new CSS and HTML techniques to build input forms.
